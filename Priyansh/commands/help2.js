@@ -67,7 +67,10 @@ module.exports. run = function({ api, event, args, getText }) {
     for (let item of returnArray) msg += `「 ${++i} 」${prefix}${item}\n`;
     
     
-    const siu = `Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨`;
+    const siu = `\n•─────✧─────•\n      「 𝗣𝗔𝗚𝗘 」   \n◃───────────▹\n\n       (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})\n
+যেকোনো কমান্ড পেতে 👉 "${prefix} চিন্হ টি লিখুন তার পর {command name} \n\nবর্তমানে ${arrayInfo.length}  কমান্ড চালু আছে\n\n
+𝙱𝙾𝚃 𝙽À𝙼𝙴 :${global.config.BOTNAME} \n\n┏•━•━•━ ◎ ━•━•━•┓\n   𝗡𝗔𝗠𝗘 𝗢𝗪𝗡𝗘𝗥\n┗•━•━•━ ◎ ━•━•━•┛ \n\nBOT PREFIX: ${prefix}\n\n╭───────────────╮\n🔥    𝗦𝗔𝗞𝗜𝗕 𝗠𝗔𝗛𝗠𝗨𝗗   🔥\n╰───────────────╯\n\n[ANY HELP CONTACT FB]\n  https://www.facebook.com/T.R.S.SAKIB.01
+\n╭──────────╮\n✜     𝐌𝐈𝐍𝐃 𝐈𝐓     ✜\n╰──────────╯ \n𝗜𝗧'𝗦 𝗝𝗨𝗦𝗧 𝗡𝗢𝗧 𝗔 𝗡𝗔𝗠𝗘 𝗜𝗧'𝗦 𝗔 𝗕𝗥𝗔𝗡𝗗       《𝗧.𝗥.𝗦》`;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})`;
  
