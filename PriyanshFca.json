@@ -1,56 +1,74 @@
-{
-	"Language": "en",
-	"PreKey": "",
-	"AutoUpdate": true,
-	"MainColor": "#9900FF",
-	"MainName": "[ FCA-PRIYANSH ]",
-	"Uptime": false,
-	"Config": "default",
-	"DevMode": false,
-	"Login2Fa": false,
-	"AutoLogin": false,
-	"BroadCast": true,
-	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
-	"EncryptFeature": false,
-	"ResetDataLogin": false,
-	"AutoInstallNode": false,
-	"AntiSendAppState": true,
-	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
-	"Websocket_Extension": {
-		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261573564027565%22%3A%225bOJWh58%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	},
-	"HTML": {
-		"HTML": true,
-		"UserName": "Guest",
-		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
+	{
+		"key": "datr",
+		"value": "UNwZaKSDbIFtcSB3u1XGcuVf",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	},
-	"AntiGetInfo": {
-		"Database_Type": "default",
-		"AntiGetThreadInfo": true,
-		"AntiGetUserInfo": true
+	{
+		"key": "fr",
+		"value": "0Hpwm2y1LTLJK4p9n.AWcccP0qPBUfult5NDH5KRRdu5Nr5FHMeqLJY_BUuEPIJJ-wrpc.BoGdxQ..AAA.0.0.BoGd9Y.AWd0hRtPB6eVR7xl6Vh6-H_B4nQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	},
-	"Stable_Version": {
-		"Accept": false,
-		"Version": ""
+	{
+		"key": "sb",
+		"value": "UNwZaCyUmtKXdoCbthzmMHa8",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	},
-	"CheckPointBypass": {
-		"956": {
-			"Allow": false,
-			"Difficult": "Easy",
-			"Notification": "Turn on with AutoLogin!"
-		}
+	{
+		"key": "wd",
+		"value": "1440x775",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	},
-	"AntiStuckAndMemoryLeak": {
-		"AutoRestart": {
-			"Use": true,
-			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
-		},
-		"LogFile": {
-			"Use": false,
-			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
-		}
+	{
+		"key": "c_user",
+		"value": "61573564027565",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
+	},
+	{
+		"key": "xs",
+		"value": "42%3AXr0ubVZoq1G2cQ%3A2%3A1746525311%3A-1%3A5134",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1746526044028%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-05-06T10:07:34.453Z",
+		"lastAccessed": "2025-05-06T10:07:34.453Z"
 	}
-}
+]
